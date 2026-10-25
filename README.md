@@ -17,44 +17,6 @@
 - ⚙️ **Configurable Playlists**: Switch between the full global index, Bangladesh-only lightweight playlist, sports, news, or your own custom M3U source URL.
 - 🎨 **Premium Dark UI**: Built with a sleek dark aesthetic, deep purple and blue neon glowing accents, glassmorphism, responsive cards, and smooth hover animations.
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn
-
-### Installation & Run
-
-1. Clone or open the project directory:
-   ```bash
-   cd e:/Downloads/gtv
-   ```
-
-2. Install dependencies (if not already installed):
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and visit:
-   ```
-   http://localhost:5173
-   ```
-
-5. Build for production:
-   ```bash
-   npm run build
-   npm run preview
-   ```
-
----
-
-## ⚠️ Disclaimer & Legal Notice
 
 StreamBD is an open-source, client-side web application. It does not host, store, or stream any video content directly. All streams and playlists are indexed from public community repositories (such as `iptv-org`). Stream availability depends on the respective broadcaster's servers. Some streams may be geo-restricted or blocked by browser CORS security policies.
